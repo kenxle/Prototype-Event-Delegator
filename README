@@ -1,0 +1,3 @@
+This class is an easy-to-use event delegator that I wrote working at 1stdibs.com. We decomissioned it for reasons other than its effectiveness, and I was so fond of it I requested permission to release it as open source. 1stdibs.com graciously acceded to my request, so here is the file. 
+
+I welcome any comments, critiques, improvements.
